@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/websocket/CMakeLists.txt" timestamp="1547352176407" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
